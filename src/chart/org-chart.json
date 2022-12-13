@@ -1,0 +1,70 @@
+{
+    "name": "Mill Hill",
+    "attributes": {
+        "Designation":"Chief Executive Officer" 
+      },
+    "children": 
+    [
+      {
+        "name": "Joe Linux",
+        "attributes": {
+          "Designation": "Chief Technology Officer"  
+        },
+        "children": [
+          {
+            "name": "Rob Blomquist",
+            "attributes": {
+              "Designation": "Chief Information Security Officer"
+            }
+          },
+          {
+            "name": "Michael Rubin",
+            "attributes": {
+              "Designation": "Chief Innovation Officer"
+            }
+          }
+        ]
+      },
+      {
+        "name": "Linda May",
+        "attributes": {
+          "Designation": "Chief Business Officer"  
+        },
+        "children": [
+          {
+            "name": "Alice Lopez",
+            "attributes": {
+              "Designation": "Chief Communication Officer"
+            }
+          },
+          {
+            "name": "Mary Johnson",
+            "attributes": {
+              "Designation": "Chief Brand Officer"
+            }
+          },
+          {
+            "name": "Michael Rubin",
+            "attributes": {
+              "Designation": "Chief Business Development Officer"
+            }
+          }
+        ]
+      },
+    
+      {
+        "name": "John Green",
+        "attributes": {
+          "Designation": "Chief Accounting Officer"
+        },
+        "children": [
+          {
+            "name": "Erica Reel",
+            "attributes": {
+              "Designation": "Chief Customer Officer"
+            }
+          }
+        ]
+      }
+    ]
+  }

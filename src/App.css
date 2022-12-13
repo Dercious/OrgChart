@@ -1,0 +1,29 @@
+
+.demo-container {
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  width: 100%;
+}
+.column-right {
+  height: 100%;
+  width: 100%;
+}
+
+.tree-container {
+  height: 100%;
+  background: #ccf6c8; 
+}
+
+/* Custom node classes */
+.demo-node > circle {
+  fill: #2d3748;
+  stroke: #475161;
+}
+
+/* Custom path classes */
+ .my-path-class {
+  stroke: rgb(110, 136, 216);
+  stroke-width: 50;
+}  
